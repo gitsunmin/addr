@@ -135,7 +135,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2019-04-03 20:22:39</creation_date>
-			<updated_date>2019-04-03 20:23:42</updated_date>
+			<updated_date>2019-04-03 20:28:07</updated_date>
 			<model_property>
 				<name>프로젝트명</name>
 				<value></value>
@@ -842,19 +842,19 @@
 					<columns>
 						<column>
 							<id>8</id>
-							<desc>null</desc>
+							<desc>false</desc>
 						</column>
 						<column>
 							<id>9</id>
-							<desc>null</desc>
+							<desc>false</desc>
 						</column>
 						<column>
 							<id>10</id>
-							<desc>null</desc>
+							<desc>false</desc>
 						</column>
 						<column>
 							<id>12</id>
-							<desc>null</desc>
+							<desc>false</desc>
 						</column>
 					</columns>
 				</inidex>
